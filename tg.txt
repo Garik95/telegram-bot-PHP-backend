@@ -1,0 +1,2 @@
+https://api.telegram.org/bot339371115:AAEOSgOwRGXgndDMs1LF4VtjZF86vuNU0s8/setwebhook
+https://api.telegram.org/bot339371115:AAEOSgOwRGXgndDMs1LF4VtjZF86vuNU0s8/setwebhook?url=https://somonitrading.com/tg/hook.php
